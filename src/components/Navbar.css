@@ -1,0 +1,15 @@
+.nav {
+  width: 100%;
+  border: 1px solid white;
+  height: 50px;
+background-color: aliceblue important ;
+
+}
+.ul {
+  display: flex;
+  justify-content: space-between;
+}
+.li {
+  color: green;
+  text-align: center;
+}
